@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LuyenLe3333
+- 👀 I’m interested in Python, Java, Data Structures, Web Systems
+- 🌱 I’m currently learning Data Structures/Web Systems
+- 📫 How to reach me lle40051@gmail.com
+- ⚡ Fun fact: I lose in every 1V1 basketball
