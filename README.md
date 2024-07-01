@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @LuyenLe3333
-- 🌱 I’m currently studying at University of Arkansas - Fort Smith
+- 🌱 I’m studying Computer Science at University of Arkansas - Fort Smith
 - 📫 How to reach me lle40051@gmail.com
 - ⚡ Fun fact: I lose in every 1V1 basketball
