@@ -8,7 +8,7 @@
 - **Tools**: Eclipse, Visual Studio Code (VS Code), Jupyter Notebook, Anaconda Navigator, GitHub, MacOS, Ubuntu Linux, Windows
 
 ## Projects
-- **[Grade Calculator - lle00Lab1a](https://github.com/LuyenLe3333/Programming-I-Lab-1/blob/main/lle00Lab1a.java)**: This Java project calculates the current grade percentage based on points earned and points needed for the next letter grade.
+- ###[Grade Calculator - lle00Lab1a](https://github.com/LuyenLe3333/Programming-I-Lab-1/blob/main/lle00Lab1a.java)###: This Java project calculates the current grade percentage based on points earned and points needed for the next letter grade.
    
 - **[Plant Store Calculator - lle00Lab1b](https://github.com/LuyenLe3333/Programming-I-Lab-1/blob/main/lle00Lab1b.java)**: This Java project calculates the total cost of Japanese Maple Trees and Azaleas, including discounts and sales tax.
 
