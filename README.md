@@ -12,7 +12,7 @@
    
 - **[Plant Store Calculator - lle00Lab1b](https://github.com/LuyenLe3333/Programming-I-Lab-1/blob/main/lle00Lab1b.java)**: This Java project calculates the total cost of Japanese Maple Trees and Azaleas, including discounts and sales tax.
 
-- **[Final Project Python](https://github.com/LuyenLe3333/Final-Project-Python/tree/main)**: This Python project shows data analysis and visualization techniques whether doing more reps will increase muscle mass.
+- **[Final Project Python](https://github.com/LuyenLe3333/Final-Project-Python/tree/main)**: This Python project demonstrates data analysis and visualization techniques whether doing more reps will increase muscle mass.
 
 ## Contact
 - Email: [lle40051@gmail.com](mailto:lle40051@gmail.com)
