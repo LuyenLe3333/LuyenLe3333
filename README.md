@@ -5,7 +5,7 @@
 
 ## Skills
 - **Programming Languages**: Java, Python
-- **Tools**: Eclipse, Visual Studio Code (VS Code), Anaconda Navigator, GitHub, MacOS, Ubuntu Linux, Windows
+- **Tools**: Eclipse, Visual Studio Code (VS Code), Jupyter Notebook, Anaconda Navigator, GitHub, MacOS, Ubuntu Linux, Windows
 
 ## Projects
 - **[Grade Calculator - lle00Lab1a]([https://github.com/LuyenLe3333/grade-calculator](https://github.com/LuyenLe3333/Programming-I-Lab-1/blob/main/lle00Lab1a.java)**: This Java application calculates the current grade percentage based on points earned and points needed for the next letter grade.
