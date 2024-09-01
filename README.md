@@ -1,5 +1,5 @@
 ## About me
-- 👋 Hi, I’m Luyen Le (pronounced Luwin)
+- 👋 Hi, I’m Luyen Le (pronounced Loo-win)
 - 🌱 I’m a Computer Science student at University of Arkansas - Fort Smith
 - ⚡ Fun fact: I lose in every 1V1 basketball
 
