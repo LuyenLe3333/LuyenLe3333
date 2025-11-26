@@ -4,7 +4,7 @@
 - ⚡ Fun fact: I can solve the Rubik's Cube in under 2 minutes.
 
 ## Skills
-- **Programming Languages**: Java, Python
+- **Programming Languages**: Python, Java, HTML, CSS, PHP, JavaScript, SQL, C++, C#)
 - **Tools**: Eclipse, Visual Studio Code (VS Code), Jupyter Notebook, Anaconda Navigator, GitHub, MacOS, Ubuntu Linux, Windows
 
 ## Projects
