@@ -8,7 +8,7 @@
 - **Tools**: Eclipse, Visual Studio Code (VS Code), Jupyter Notebook, Anaconda Navigator, GitHub, MacOS, Ubuntu Linux, Windows
 
 ## Projects
-- **[Grade Calculator - lle00Lab1a](https://github.com/LuyenLe3333/Restaurant-Blazer-App)**: This Blazer application tracks new restaurant reservations/reservations.
+- **[Restaurant Blazor App - FinalProjectLL](https://github.com/LuyenLe3333/Restaurant-Blazer-App)**: This Blazer application tracks new restaurant reservations/reservations.
 
 - **[Grade Calculator - lle00Lab1a](https://github.com/LuyenLe3333/Programming-I-Lab-1/blob/main/lle00Lab1a.java)**: This Java project calculates the current grade percentage based on points earned and points needed for the next letter grade.
    
